@@ -1,0 +1,158 @@
+Main Arc (Main Story)
+
+U : *bangun dari tidur*
+U : Siapa anda?
+D : Hai... sebelumnya perkenalkan aku Daniel
+U : Hai juga, aku <nama_user>. Omong-omong dimana kita sekarang?
+D : Apakah kamu lupa bahwa kita terkena bencana tadi malam? 
+Bencana tersebut membuat kita terperangkap dalam labirin matematika ini.
+D : Tadi sempat aku cek di ujung lorong ini. Terdapat sebuah alat 
+teleporter besar bertuliskan "Arcane Port" , mungkin saja itu merupakan 
+jalan keluar kita satu-satunya. Disana tertulis keterangan bahwa kita
+harus mengumpulkan kedelapan Arcane Scroll yang memliki kekuatan elemental
+untuk mengaktifkan teleporter tersebut. Kuy, kita cari bersama-sama scroll
+tersebut
+U : *kasih tombol respon*
+
+arc 1 (Aerial Scroll)
+
+*jalan buntu dengan pintu terkunci*
+U : *brr* urghh disini anginnya tiba-tiba berhembus sangat kencang.
+D : Hey, kemarilah, disini ada sebuah panel yang berisikan teka-teki.
+U : *Menghampiri Daniel*
+
+System : *Angin bertiup lebih kencang lagi, banyak serpihan-serpihan
+kaca yang ikut bertebangan*
+
+*Daniel dan <user> bergegas mencari tempat berlindung dari angin*
+
+D : Cepat, bantu aku menyelesaikan teka-teki ini sebelum 
+angin ini bertambah parah lagi
+U : *kasih tombol respon* *kasih 3 soal yang gampang dulu*
+
+*setelah selesai mengerjakan soal*
+
+System : *mengeluarkan Aerial Scroll* Selamat anda telah mendapatkan 
+Aerial Scroll. *Pintu terbuka*
+
+*seseorang muncul dari balik pintu tersebut*
+
+U : Angkat Tangan. Siapa kamu?
+B : *Sambil mengangkat tangan* Aku juga merupakan korban dari bencana ini.
+D : Oh.. Tenang dia Bryan, ilmuwan yang terkenal, mungkin saja dia 
+dapat membantu perjalanan kita. Tidak ada salahnya untuk mengajaknya.
+
+Arc 2 (Crystaline Scroll)
+
+*memasuki ruangan baru. Ada sebuah pintu di ujung jalan*
+
+D : Hey <user>, kita sepertinya harus bergegas. Lihatlah 
+langit-langit batu di atas sepertinya mau runtuh.
+
+*berlari menuju pintu yang terkunci dengan panel teka-teki*
+
+D : Wah... lagi-lagi pintu ini terkunci. Tolong bantu
+untuk menyelesaikan teka-teki pada panel ini sebelum 
+langit-langit batu di atas kita runtuh.
+U : *kasih tombol respon* *kasih 3 soal*
+
+System : *mengeluarkan Crystaline Scroll* Selamat anda telah mendapatkan 
+Crystaline Scroll. *Pintu terbuka dan setelah itu langit-langit runtuh*
+
+Arc 3 (Aqueous Scroll)
+
+*Seluruh pintu tiba-tiba terkunci rapat. Ada satu pintu dengan panel di
+ujung jalan*
+
+System: *tiba-tiba keluar aliran air dari tiap sudut ruangan*
+
+D : Wah, kalau begini terus kita bakal tenggelam. Yuk cepat selesaikan 
+teka-teki di panel pintu tersebut.
+U : *kasih tombol respon* *kasih 3 soal*
+
+System : *mengeluarkan Aqueous Scroll* Selamat anda telah mendapatkan 
+Aqueous Scroll. *Pintu terbuka dan air tiba-tiba surut*
+
+Arc 4 (Cryo Scroll)
+
+U : *memasuki ruangan baru dan tidak sengaja menginjak jebakan*
+
+*keluar gas yang berwarna putih salju dari lantai*
+
+D : Aku merasakan ada hawa sejuk dari bawah lantai.
+U : iya mungkin setelah kita keluar dari ruangan air sebelumnya.
+
+*udara semakin dingin dan pergerakan semakin melambat*
+
+D : Bahaya! Aku baru saja menyadarinya, ternyata ini bukanlah gas biasa. 
+Ini merupakan gas pembeku yang dapat menghentikan seluruh aktivitas
+Tubuh kita. Sebaiknya kita bergegas menyelesaikan teka-teki di 
+panel pintu tersebut, sebelum kita beku.
+U : *kasih tombol respon* *kasih 3 soal*
+
+System : *mengeluarkan Cryo Scroll* Selamat anda telah mendapatkan 
+Cryo Scroll. *Pintu terbuka*
+
+Arc 5 (Pyro Scroll)
+
+D : Setelah hampir beku akhirnya ada tempat yang hangat.
+
+*suhu mengalami anomali*
+
+D : Aku rasa suhu meningkat secara perlahan. Feeling ku buruk 
+mengenai hal ini. Yuk segera selesaikan panel agar kita tidak
+jadi manusia bakar hehe
+U : *kasih tombol respon* *kasih 3 soal*
+
+System : *mengeluarkan Pyro Scroll* Selamat anda telah mendapatkan 
+Pyro Scroll. *Pintu terbuka dan suhu kembali normal*
+
+Arc 6 (Luminous Scroll)
+
+*muncul sebuah sinar terang saat pintu terbuka*
+
+D : Huff... Sudah lima scroll telah terkumpul saat ini. 
+Yuk kita lanjutkan mengerjakan panel teka-teki ini.
+U : *kasih tombol respon* *kasih 3 soal*
+
+System : *Restore life to 10* Selamat anda telah sembuh dari segala jenis
+kesakitan yang telah dialami
+
+System : *mengeluarkan Luminous Scroll* Selamat anda telah mendapatkan 
+Luminous Scroll. *Pintu terbuka*
+
+Arc 7 (Dendro Scroll)
+
+*Ketika anda memasuki ruangan baru,
+tanaman rambat duri tiba-tiba menjalar kemana-mana*
+
+D : Waduh apa-apa an ini? Cepat! Kita harus segera menyelesaikan panel 
+teka-teki ini sebelum panelnya tertutup akar rambat duri ini.
+U : *kasih tombol respon* *kasih 3 soal*
+
+System : *mengeluarkan Luminous Scroll* Selamat anda telah mendapatkan 
+Luminous Scroll. *Pintu terbuka*
+
+Arc 8 (Umbra Scroll)
+
+*Seketika saat memasuki ruangan berikutnya, semua perangkat 
+listrik padam*
+
+D : Disini sangat gelap, sampai-sampai aku tak bisa melihatmu, <user>
+U : *Secara tidak sengaja mengaktifkan kemampuan luminous scroll*
+
+System: Kemampuan luminous scroll telah diaktifkan untuk sementara. 
+Anda dapat melihat panel teka-teki hanya dalam beberapa menit. Segera
+selesaikan tantangan terakhir ini.
+
+U : *kasih tombol respon* *kasih 3 soal*
+
+
+
+
+
+
+
+
+
+ 
