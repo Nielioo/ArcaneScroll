@@ -1273,6 +1273,11 @@ public class MainMusic {
         rata = nilaiAsli - RNG(1, 5);
         nilaiTambah = ((siswaTotal * rata) - (siswaAsli * nilaiAsli)) / siswaTambah;
 
+        while (nilaiTambah < 0) {
+            nilaiAsli = RNG(60, 90);
+            rata = nilaiAsli - RNG(1, 5);
+            nilaiTambah = ((siswaTotal * rata) - (siswaAsli * nilaiAsli)) / siswaTambah
+        }
         soal = "Nilai ulangan matematika " + siswaAsli + " siswa adalah " + nilaiAsli
                 + ". Setelah " + siswaTambah
                 + " orang siswa ikut\nulangan susulan, nilai rata-ratanya menjadi " + rata
