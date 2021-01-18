@@ -1276,7 +1276,7 @@ public class MainMusic {
         while (nilaiTambah < 0) {
             nilaiAsli = RNG(60, 90);
             rata = nilaiAsli - RNG(1, 5);
-            nilaiTambah = ((siswaTotal * rata) - (siswaAsli * nilaiAsli)) / siswaTambah
+            nilaiTambah = ((siswaTotal * rata) - (siswaAsli * nilaiAsli)) / siswaTambah;
         }
         soal = "Nilai ulangan matematika " + siswaAsli + " siswa adalah " + nilaiAsli
                 + ". Setelah " + siswaTambah
@@ -1430,18 +1430,18 @@ public class MainMusic {
 
         // Try Again Title
         tryAgainTitlePanel = new JPanel();
-        tryAgainTitlePanel.setBounds(340, 200, 600, 50);
+        tryAgainTitlePanel.setBounds(340, 250, 600, 100);
         tryAgainTitlePanel.setOpaque(false);
 
         tryAgainTitleLabel = new JLabel();
-        tryAgainTitleLabel.setFont(nasalizationb30);
+        tryAgainTitleLabel.setFont(nasalizationb60);
         tryAgainTitleLabel.setForeground(Color.white);
         tryAgainTitleLabel.setHorizontalAlignment(JLabel.CENTER);
         tryAgainTitlePanel.add(tryAgainTitleLabel);
 
         // Try Again Text
         tryAgainTextPanel = new JPanel();
-        tryAgainTextPanel.setBounds(340, 250, 600, 50);
+        tryAgainTextPanel.setBounds(340, 325, 600, 50);
         tryAgainTextPanel.setOpaque(false);
 
         tryAgainTextLabel = new JLabel("Try Again?");
@@ -1452,7 +1452,7 @@ public class MainMusic {
 
         // Try Again Buttons
         tryAgainBtnPanel = new JPanel();
-        tryAgainBtnPanel.setBounds(490, 300, 300, 150);
+        tryAgainBtnPanel.setBounds(490, 350, 300, 150);
         tryAgainBtnPanel.setOpaque(false);
         tryAgainBtnPanel.setLayout(new GridBagLayout());
 
@@ -1502,18 +1502,18 @@ public class MainMusic {
 
         // Win Lose Title
         winLoseTitlePanel = new JPanel();
-        winLoseTitlePanel.setBounds(340, 200, 600, 50);
+        winLoseTitlePanel.setBounds(340, 250, 600, 100);
         winLoseTitlePanel.setOpaque(false);
 
         winLoseTitleLabel = new JLabel();
-        winLoseTitleLabel.setFont(nasalizationb30);
+        winLoseTitleLabel.setFont(nasalizationb60);
         winLoseTitleLabel.setForeground(Color.white);
         winLoseTitleLabel.setHorizontalAlignment(JLabel.CENTER);
         winLoseTitlePanel.add(winLoseTitleLabel);
 
         // Win Lose Buttons
         winLoseBtnPanel = new JPanel();
-        winLoseBtnPanel.setBounds(570, 310, 150, 150);
+        winLoseBtnPanel.setBounds(570, 340, 150, 150);
         winLoseBtnPanel.setOpaque(false);
 
         winLoseBtn = new JButton();
